@@ -1,0 +1,26 @@
+[
+    {
+        "image":"../Assets/img1.jpeg",
+        "name":"img1"
+    },
+    {
+          "image":"../Assets/img2.jpeg",
+          "name":"img2"
+    },
+    { 
+         "image":"../Assets/img3.jpeg",
+         "name":"img3"
+    },
+    {
+         "image":"../Assets/img4.jpeg",
+         "name":"img4"
+    },
+    {
+       "image":"../Assets/img5.jpeg",
+       "name":"img5"
+    },
+    {
+         "image":"../Assets/img6.jpeg",
+         "name":"img6"
+    }
+]
